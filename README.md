@@ -1,7 +1,5 @@
 # Moway
 
-# User manuals
-
 ## For Virtual self-driving car using reinforcement learning
 
 ##### Version 1.0
@@ -21,6 +19,9 @@ self-driving car or human cars. This can be used to observe the impact that the
 self-driving car can have on damping the traffic bottlenecks caused by manned vehicles.
 This framework can be simulatable in a different traffic situation and different
 phenomena.
+
+
+# User manuals
 
 ### Process Overview
 
