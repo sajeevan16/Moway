@@ -36,12 +36,19 @@ proceed with the simulation.
 
 #### 1. Main Menu
 
-Train - ​Gave the new model name and Press the Train Button in The Menu. You
+![01  MainMenu](https://user-images.githubusercontent.com/37554141/58656630-4d50e600-833a-11e9-9918-c3c17e4c6177.png)
+
+Train - Gave the new model name and Press the Train Button in The Menu. You
 will be taken to the Environment creational user interface
-Play - ​Gave the already trained model name and Press the Play Button in The
+Play - Gave the already trained model name and Press the Play Button in The
 Menu. You will be taken to the Environment creational user interface
 
 #### 2. Environment Creator
+
+![02  Environment Create](https://user-images.githubusercontent.com/37554141/58656664-593ca800-833a-11e9-900a-b7af21bbb2d2.png)
+
+
+![03  Environment Create-2](https://user-images.githubusercontent.com/37554141/58656672-5b9f0200-833a-11e9-9986-f50c40f0aef4.png)
 
 First, User can Change The map using Right and Left Arrow Keys, And also user
 can Change the adding obstacle or manned car using Up and Down Arrow Keys.
@@ -57,6 +64,12 @@ User can Establish the Obstacle/Car in the correct position Using Mouse click
 and Drag and Release the mouse click to the Facing Direction
 
 #### 3. Simulation
+
+![04  Traing](https://user-images.githubusercontent.com/37554141/58656683-5e99f280-833a-11e9-83c9-9ea54548acb8.png)
+
+
+![05  Playing](https://user-images.githubusercontent.com/37554141/58656689-6194e300-833a-11e9-8ffa-163e52615e6a.png)
+
 
 When Training User can View The Epsilon Value, Max Distance, Last Distance,
 Total Frames, fps Details in the Below. User can save the model(Reinforcement
