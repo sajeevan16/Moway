@@ -20,6 +20,17 @@ self-driving car can have on damping the traffic bottlenecks caused by manned ve
 This framework can be simulatable in a different traffic situation and different
 phenomena.
 
+### Requirements
+
+Python 3.6.8
+
+pygame==1.9.4
+numpy==1.16.1
+keras==2.2.4
+tensorflow==1.13.1
+argh==0.26.2
+
+The project
 
 # User manuals
 
