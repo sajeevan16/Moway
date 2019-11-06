@@ -30,8 +30,6 @@ keras==2.2.4
 tensorflow==1.13.1
 argh==0.26.2
 
-The project
-
 # User manuals
 
 ### Process Overview
