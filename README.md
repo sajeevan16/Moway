@@ -20,6 +20,18 @@ self-driving car can have on damping the traffic bottlenecks caused by manned ve
 This framework can be simulatable in a different traffic situation and different
 phenomena.
 
+### Setup Environment
+
+
+Install python3.6.8
+
+```sh
+$ git clone https://github.com/sajeevan16/Moway.git
+$ cd Moway
+$ python install.py
+$ python Moway.py
+```
+
 ### Requirements
 
 Python 3.6.8
