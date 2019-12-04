@@ -124,7 +124,7 @@ class EnvironmentMenu:
         elif pressed[pygame.K_z] and self.timenow < time.time()-0.4:
             if (len(self.Objects)> 1):
                 self.Objects.pop()
-        if pressed[pygame.K_KP_ENTER] and self.timenow < time.time() - 0.4:
+        if pressed[pygame.K_RETURN] and self.timenow < time.time() - 0.4:
             if (len(self.Objects)> 1):
                 return self.Objects
         if pressed[pygame.K_m]:
