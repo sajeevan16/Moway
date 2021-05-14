@@ -36,8 +36,12 @@ $ cd Moway
 ```sh
 $ pip install virtualenv
 $ venv venv
-$ venv\Scripts\activate (Windows)
-$ source venv/bin/activate (Linux)
+
+// If Windows
+$ venv\Scripts\activate
+
+// If Linux
+$ source venv/bin/activate
 ```
 
 #### Install & Run
